@@ -8,7 +8,7 @@ Wing Editor 7.1.0.2
 
 ## Running the tests
 1. Once the program is executed, user will see two rockets that user can pick. (Green Rocket or Blue Rocket) 
-![](https://github.com/amitvapal/NinthGradeHonorsComputerProgamming-Project-Slot-Simulator/blob/master/Images/Picture1-2.png)
+![](https://github.com/amitvapal/rocketRace/blob/master/rocket_opening.png)
 
 
 When user presses the rocket he/she chooses than the race is on. When the rockets hit the top of the window then that is the ending point and it is decided which rocket has won
