@@ -11,8 +11,8 @@ Wing Editor 7.1.0.2
 ![](https://github.com/amitvapal/rocketRace/blob/master/rocket_opening.png)
 
 
-When user presses the rocket he/she chooses than the race is on. When the rockets hit the top of the window then that is the ending point and it is decided which rocket has won
-![](https://github.com/amitvapal/NinthGradeHonorsComputerProgamming-Project-Slot-Simulator/blob/master/Images/Picture4-2.png)
+When user presses the rocket he/she chooses than the race is on (here user picks green rocket). When the rockets hit the top of the window then that is the ending point and it is decided which rocket has won
+![](https://github.com/amitvapal/rocketRace/blob/master/rocket_race.png)
 
 
 
