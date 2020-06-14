@@ -1,4 +1,4 @@
-# Project Name: RocketRace
+# Project Name: Rocket Race
 User has the option to pick one of the two rockets. User picks a rocket that he bets to win on. When user clicks the rocket the race starts and both rockets race at random speeds in the same speed ranges. If user's rocket reaches first to the line user wins else the computer wins.
 ### Prerequisites
 Following Software tools used to build game “Slot Simulator”
